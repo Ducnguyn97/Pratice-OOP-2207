@@ -1,0 +1,10 @@
+{
+  "name": "Pratice-OOP-2207",
+  "version": "1.0.0",
+  "description": "",
+  "main": "bài1/p1.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "private": true
+}
